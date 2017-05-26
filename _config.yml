@@ -1,0 +1,14 @@
+title: kevin-stafford.com
+email: kevin.r.stafford@gmail.com
+description: This is my internet website that is about nothing, or something
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: _STAFF0RD
+github_username:  kevin-stafford
+permalink: /posts/:title
+google_analytics: UA-100023919-1
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
